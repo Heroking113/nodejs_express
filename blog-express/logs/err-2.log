@@ -1,0 +1,14 @@
+19-10-18 19:11:48: Fri, 18 Oct 2019 11:11:48 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:11:48: Fri, 18 Oct 2019 11:11:48 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:11:52: Fri, 18 Oct 2019 11:11:52 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:11:52: Fri, 18 Oct 2019 11:11:52 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:13:02: Fri, 18 Oct 2019 11:13:02 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:13:02: Fri, 18 Oct 2019 11:13:02 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:13:08: Fri, 18 Oct 2019 11:13:08 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:13:08: Fri, 18 Oct 2019 11:13:08 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:13:43: Fri, 18 Oct 2019 11:13:43 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:13:43: Fri, 18 Oct 2019 11:13:43 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:13:49: Fri, 18 Oct 2019 11:13:49 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:13:49: Fri, 18 Oct 2019 11:13:49 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9
+19-10-18 19:14:04: Fri, 18 Oct 2019 11:14:04 GMT express-session deprecated undefined resave option; provide resave option at app.js:51:9
+19-10-18 19:14:04: Fri, 18 Oct 2019 11:14:04 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at app.js:51:9

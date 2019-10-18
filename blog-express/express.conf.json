@@ -1,0 +1,15 @@
+{
+    "apps":{
+        "name":"myblog",
+        "script": "bin/www",
+        "watch": true,
+        "ingnore_watch":[
+            "node_modules",
+            "logs"
+        ],
+        "instances":4,
+        "error_file": "logs/err.log",
+        "out_file": "logs/out.log",
+        "log_date_format": "YY-MM-DD HH:mm:ss"
+    }
+}
